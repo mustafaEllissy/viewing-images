@@ -1,0 +1,9 @@
+c:\users\mustafa\documents\visual studio 2015\Projects\Viewing Images\Viewing Images\bin\Debug\Viewing Images.exe.config
+c:\users\mustafa\documents\visual studio 2015\Projects\Viewing Images\Viewing Images\bin\Debug\Viewing Images.exe
+c:\users\mustafa\documents\visual studio 2015\Projects\Viewing Images\Viewing Images\bin\Debug\Viewing Images.pdb
+c:\users\mustafa\documents\visual studio 2015\Projects\Viewing Images\Viewing Images\obj\Debug\Viewing Images.csprojResolveAssemblyReference.cache
+c:\users\mustafa\documents\visual studio 2015\Projects\Viewing Images\Viewing Images\obj\Debug\Viewing_Images.ViewingImagesForm.resources
+c:\users\mustafa\documents\visual studio 2015\Projects\Viewing Images\Viewing Images\obj\Debug\Viewing_Images.Properties.Resources.resources
+c:\users\mustafa\documents\visual studio 2015\Projects\Viewing Images\Viewing Images\obj\Debug\Viewing Images.csproj.GenerateResource.Cache
+c:\users\mustafa\documents\visual studio 2015\Projects\Viewing Images\Viewing Images\obj\Debug\Viewing Images.exe
+c:\users\mustafa\documents\visual studio 2015\Projects\Viewing Images\Viewing Images\obj\Debug\Viewing Images.pdb
